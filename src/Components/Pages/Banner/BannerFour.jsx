@@ -9,7 +9,7 @@ const BannerFour = () => {
   return (
     <div className="allHW operators">
       <p className="text-xl text-center">Plenty of options to choose</p>
-      <p className="text-4xl text-center">Available bus operators</p>
+      <p className="text-4xl text-center">Available bus operator</p>
       <div>
         <button>
           <span className='myButton items-center'>

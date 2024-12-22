@@ -8,7 +8,7 @@ const BannerFive = () => {
       <div className='destinationImg'>
         <img src="https://ticket.jatri.co/_nuxt/img/route.be1968e.svg" alt="" />
       </div>
-      <p>Our most popular route</p>
+      <p>Our mosts popular routes</p>
 
       <div>
       <div className="overflow-x-auto">
